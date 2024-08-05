@@ -1,6 +1,6 @@
 ### Module 6 Challenge
 
--   Due Monday by 11:59pm
+-   Due Monday, August 5, 2024 by 11:59pm
 -   Points 100
 -   Submitting a text entry box or a website url
 
